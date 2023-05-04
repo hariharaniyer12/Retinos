@@ -1,0 +1,62 @@
+/* styles.css */
+.retinos-container {
+    background: #00bfff;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .retinos-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .retinos-header svg {
+    font-size: 32px;
+    margin-right: 10px;
+  }
+
+  .main-box{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-top: 3px;
+  }
+
+  .outer-box{
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+
+  .result-area{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 22px;
+  }
+
+  .image-preview{
+    /* background-color: brown; */
+    display: block;
+    margin-left: 38px;
+    BORDER: 2px solid white; 
+    border-radius: 28px;
+    /* display: none; */
+  }
+
+  .result-text{
+    display: flex;
+    justify-content: center;
+  }
+
+  .image-icon{
+    /* background-color: cyan; */
+    height: 100px;
+    width: 100px;
+  }
+
+  .image-preview-area{
+    display: flex;
+    justify-content: center;
+    margin: 59px 10px;
+  }
